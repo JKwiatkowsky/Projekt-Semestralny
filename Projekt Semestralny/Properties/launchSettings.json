@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Projekt Semestralny c#": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\jkwia\\source\\repos\\Migracja danych via XML\\bin\\Debug\\net7.0\\Migracja danych via XML.exe",
+      "workingDirectory": "C:\\Users\\jkwia\\source\\repos\\Migracja danych via XML\\bin\\Debug\\net7.0\\"
+    }
+  }
+}
